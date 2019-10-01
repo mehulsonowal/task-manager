@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+	"target": "es2018",
+	"allowSyntheticDefaultImports": true,
+	"noEmit": true
+    },
+    "exclude": [
+	"node_modules"
+    ],
+    "indentSize": 4,
+    "tabSize": 4,
+    "insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": false,
+    "placeOpenBraceOnNewLineForFunctions": false,
+    "placeOpenBraceOnNewLineForControlBlocks": false
+}
